@@ -24,16 +24,11 @@ You now have the tree below:
 config.example.js
 content/
 core/
-.git/
-.gitignore
 Gruntfile.js
-.idea/
 index.js
-LICENSE
 npm-shrinkwrap.json
 package.json
 PRIVACY.md
-README.md
 ```
 
 Install Ghost
