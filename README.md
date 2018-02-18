@@ -5,6 +5,7 @@ Ghost is a free and open source blogging platform written in JavaScript.
 ## Prerequisite
 
 What you need :
+  - Node.js : the latest version ;
   - NPM : the JavaScript package manager installed on your local machine ; 
 
 
